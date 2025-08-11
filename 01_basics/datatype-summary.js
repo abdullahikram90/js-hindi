@@ -21,4 +21,11 @@ let myObj = {
 console.log(typeof myObj);
 
 
+// ++++++++++++++++++++++++++++++++++++++++
+
+// stack (primative) and heap(non-primative) memmory
+
+
+
+
 
