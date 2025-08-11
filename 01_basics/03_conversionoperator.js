@@ -22,8 +22,6 @@ console.log(str3);
 
 // increment operator
 
-let x2 = 3n
-const y2= ++x2;
-console.log(x);
-
+let x = 3
+const y = x++;
 console.log(x);
